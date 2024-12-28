@@ -12,4 +12,4 @@
 	url = https://gitlab.freedesktop.org/wayland/wayland-protocols.git
 [submodule "repos/nanosvg"]
 	path = repos/nanosvg
-	url = https://github.com/memononen/nanosvg.git
+	url = https://github.com/marsiwiec/nanosvg.git
